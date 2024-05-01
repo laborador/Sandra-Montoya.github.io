@@ -1,0 +1,7 @@
+$ git user.name "Sandra Montoya"
+$ git user.email sandra.montoya2@utp.edu.co
+$ git init
+$ git add .
+$ git commit -m "Mensaje descriptivo de los cambios realizados"
+$ git remote add origin <https://laborador.github.io/Sandra-montoya/>
+$ git push -u origin master
